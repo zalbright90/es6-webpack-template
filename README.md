@@ -6,7 +6,7 @@ A template repository for using ES6 modules with npm and Webpack.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/es6-webpack-template.git
+    git clone https://github.com/zalbright90/es6-webpack-template.git
     ```
 
 2. Navigate to the directory:
